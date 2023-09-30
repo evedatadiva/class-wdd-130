@@ -1,0 +1,33 @@
+
+nav a:hover {
+    color: rgb(128, 130, 132); /* I am not sure!! :( */
+}
+
+h1, nav, nav a, p {
+    font-family: Arial, sans-serif; 
+}
+
+
+h1 {
+    color: #656a6b; /* Color of text */
+    text-align: center; /* Aling  text */
+}
+
+/* style of navigation */
+nav {
+    background-color: #96d1db; /* Color of background */
+    padding: 10px; /* Space inside */
+    text-align: center; /* Aling  text */
+}
+
+nav a {
+    text-decoration: none; 
+    color: #1d1c1c; 
+    margin: 10px; 
+}
+
+
+p {
+    text-align: center; 
+    font-style: normal; 
+}
