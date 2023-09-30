@@ -1,0 +1,14 @@
+Nombre del cliente: jhon, Número de teléfono: 404040
+Name of the client: jhon, Phone number: 35353535
+2023-09-27, 205, 60, 15, 39.92
+2023-09-27, 205, 60, 15, 39.92
+Name of the client: james, Phone number: 4545454545
+2023-09-27, Width: 185mm, Aspect Ratio: 50, Diameter: 14 inches, Volume: 24.09
+2023-09-27,205, 60,15, 39.92
+Name of the client: marie, Phone number: 8181818
+2023-09-27,185, 50,14, 24.09
+Name of the client: martin, Phone number: 1213213
+2023-09-27,185, 50,14, 24.09
+Name of the client: tulio, Phone number: 456132
+2023-09-27,185, 50,14, 24.09
+2023-09-27,205, 60,15, 39.92
